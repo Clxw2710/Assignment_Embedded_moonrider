@@ -1,0 +1,3 @@
+../Core/Src/Simulink_model_assignment.c:45:6:Simulink_model_assignment_step	8	static
+../Core/Src/Simulink_model_assignment.c:270:6:Simulink_model_assignment_initialize	4	static
+../Core/Src/Simulink_model_assignment.c:278:6:Simulink_model_assignment_terminate	4	static
